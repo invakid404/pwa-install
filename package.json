@@ -1,10 +1,13 @@
 {
-  "name": "@khmyznikov/pwa-install",
-  "version": "0.6.3",
+  "name": "@invakid404/pwa-install",
+  "version": "0.6.3-bg.1",
   "description": "PWA install dialog provide more convenience user experience and fix lack of native dialogs in some browsers.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khmyznikov/pwa-install.git"
+    "url": "git+https://github.com/invakid404/pwa-install.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "type": "module",
   "exports": {
@@ -87,9 +90,9 @@
     "lit": "^3.3.1"
   },
   "bugs": {
-    "url": "https://github.com/khmyznikov/pwa-install/issues"
+    "url": "https://github.com/invakid404/pwa-install/issues"
   },
-  "homepage": "https://github.com/khmyznikov/pwa-install#readme",
+  "homepage": "https://github.com/invakid404/pwa-install#readme",
   "keywords": [
     "PWA",
     "lit-element",
